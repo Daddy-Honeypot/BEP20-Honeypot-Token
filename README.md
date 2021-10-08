@@ -18,6 +18,8 @@ I have a method that works rinse and repeat and it does not matter how many othe
 ![tempsnip](https://user-images.githubusercontent.com/91577798/136621880-d82d7657-8624-4428-973a-ab9fc17b5921.png)
 
 # Contact
-if you are interested to purchase my source code - Contact me via Telegram : 
+If you are interested to purchase my source code or want me to help you building your own honeypot token ! 
+
+Contact me via Telegram : 
 
 @Shagguar
